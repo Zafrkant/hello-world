@@ -1,2 +1,2 @@
 # hello-world
-Ovo je probni test.
+Ovo je proba.
